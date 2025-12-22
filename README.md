@@ -1,4 +1,4 @@
-![header](/public/view.png)
+![header](/public/img.png)
 # 💰 Subscription API 🚀
 
 A robust, production-ready **Subscription Management System API** designed to handle real users, real money, and complex business logic for recurring billing services.
